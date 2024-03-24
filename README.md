@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [JUSTIAN.xyz](http://justian.xyz)
 
-- 🌱 I’m currently learning **WEB-RTC**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN , DevOps**
 
 - 📫 How to reach me **522ajaj@gmail.com**
 
