@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SK EJAJUL KABIR</h1>
 <h3 align="center">A passionate fullstack MERN Developer cum DevOps engineer from Bangladesh</h3>
 
-<p align="left"> <a href="https://twitter.com/skejajulkabir" target="blank"><img src="https://img.shields.io/twitter/follow/skejajulkabir?logo=twitter&style=for-the-badge" alt="skejajulkabir" /></a> </p>
+
 
 - 🔭 I’m currently working on [JUSTIAN.xyz](http://justian.xyz)
 
