@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [JUSTIAN.xyz](http://justian.xyz)
+- 🔭 I’m currently working on [JUSTIAN.xyz](https://justian.xyz)
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 Learning **Artificial Intelligence**
 
 - 💬 Ask me about **MERN , DevOps**
 
