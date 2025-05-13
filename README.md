@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on [JUSTIAN.xyz](https://justian.xyz)
+- 🔭 I’m currently working on [CAMPUSBONDHU.COM](https://campusbondhu.com)
 
-- 🌱 Learning **Artificial Intelligence**
+- 🌱 Learning **GEN Ai development**
 
 - 💬 Ask me about **MERN , DevOps**
 
