@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [CAMPUSBONDHU.COM](https://campusbondhu.com)
 
-- 🌱 Learning **GEN Ai development**
+- 🌱 **GEN Ai developer**
 
-- 💬 Ask me about **MERN , DevOps**
+- 💬 Ask me about **MERN, DevOps, Scalability**
 
 - 📫 How to reach me **522ajaj@gmail.com**
 
